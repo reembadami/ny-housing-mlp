@@ -1,2 +1,2 @@
 # ny-housing-mlp
-Multi-layer perceptron built from scratch to predict bedroom counts from New York housing data.
+A NumPy-based neural network to predict bedroom counts from NYC housing data. Includes custom layers, activations, and training loop with the Adam optimizer — no ML libraries used.
